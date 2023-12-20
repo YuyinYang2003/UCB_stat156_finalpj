@@ -16,12 +16,6 @@ library(data.table)
 library(mice)
 ```
 
-## Paper summary and summary statistics table
-### Research question and its answer
-### Datasets
-### Dataset cleaning
-### Summary statistics table
-
 
 ```{r}
 rm(list=ls())
